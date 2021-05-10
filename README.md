@@ -1,3 +1,5 @@
+To install all the dependencies run:
+### `npm install`
 
 In the project directory, you can run:
 
