@@ -1,3 +1,5 @@
+Live Server: https://react-pizza-hm.netlify.app/
+
 To install all the dependencies run:
 ### `npm install`
 
